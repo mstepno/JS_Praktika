@@ -1,1 +1,1 @@
-Js_uzdaviniai
+Atsakymai: uzdaviniai.js 
